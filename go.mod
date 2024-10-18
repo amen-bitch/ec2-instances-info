@@ -1,4 +1,4 @@
-module github.com/LeanerCloud/ec2-instances-info
+module github.com/amen-bitch/ec2-instances-info
 
 go 1.16
 
